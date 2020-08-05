@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "studio": "BONES",
+    "year": "2009",
+    "rating": "10"
+  },
+  {
+    "id": "2",
+    "title": "Attack on Titan",
+    "studio": "WIT",
+    "year": "2013",
+    "rating": "9"
+  }
+]
