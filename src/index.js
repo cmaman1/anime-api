@@ -13,6 +13,7 @@ app.use(express.json()); //permite leer datos json
 /* Routes */
 app.use(require("./routes/index.js"));
 app.use("/api/animes", require("./routes/animes.js"));
+app.use("/api/users", require("./routes/users.js"));
 
 /* Starting the server */
 app.listen(app.get("port"), () => {
